@@ -6,6 +6,7 @@
   "dependencies": {
     "browserify": "^16.2.2",
     "gulp": "^3.9.1",
+    "mathjs": "^5.2.0",
     "phina.js": "^0.2.3",
     "vinyl-source-stream": "^2.0.0"
   },
