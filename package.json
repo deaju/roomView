@@ -1,0 +1,27 @@
+{
+  "name": "roomview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "gulp": "^3.9.1",
+    "mathjs": "^5.2.0",
+    "phina.js": "^0.2.3",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deaju/roomView.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deaju/roomView/issues"
+  },
+  "homepage": "https://github.com/deaju/roomView#readme"
+}
